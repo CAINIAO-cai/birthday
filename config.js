@@ -20,7 +20,7 @@ var config = {
         "-------FROM LSH",
     ],
     imgs: {
-        "心爱的小可爱": "./imgs/zm.JPG",
+        "心爱的小可爱": "./imgs/xiaokeai.png",
     },
     desc: {
         turn_on: "BEGIN",

@@ -1,6 +1,8 @@
 var config = {
     texts: [
+        "Best wishes for SZY",
         "2020.12.30",
+        "宋芝妍",
         "六十天前很高兴认识你",
         "今天衷心祝福你",
         "愿你贪吃不胖",
@@ -15,10 +17,10 @@ var config = {
         "只愿你一生简单一生平安",
         "🐖芝麻生日快乐！",
         "🎂♥🎂",
-        "------FROM LUAN",
+        "-------FROM LSH",
     ],
     imgs: {
-        "心爱的小可爱": "./imgs/zm.jpg",
+        "心爱的小可爱": "./imgs/zm.JPG",
     },
     desc: {
         turn_on: "BEGIN",

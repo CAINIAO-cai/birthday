@@ -22,7 +22,6 @@ var config = {
         "祝芝麻生日快乐",
     ],
     imgs: {
-        ""
         "祝芝麻生日快乐": "./imgs/xiaokeai.png",
     },
     desc: {

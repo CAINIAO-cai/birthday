@@ -18,7 +18,7 @@ var config = {
         "------FROM LUAN",
     ],
     imgs: {
-        "祝芝麻生日快乐": "./imgs/zm.JPG",
+        "心爱的小可爱": "./imgs/zm.JPG",
     },
     desc: {
         turn_on: "BEGIN",

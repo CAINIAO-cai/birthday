@@ -18,7 +18,7 @@ var config = {
         "------FROM LUAN",
     ],
     imgs: {
-        "心爱的小可爱": "./imgs/zm.JPG",
+        "心爱的小可爱": "./imgs/zm.jpg",
     },
     desc: {
         turn_on: "BEGIN",

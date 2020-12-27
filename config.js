@@ -17,7 +17,7 @@ var config = {
         "世界这么大,人生这么短",
         "能够遇到一位喜欢的朋友",
         "已然是难得",
-        "Be a good friend is already enough",
+        "Really really nice to meet you,too!",
         "希望未来的你,幸福快乐",
         "好啦,牢骚完了,别介意",
         "😄😄😄",

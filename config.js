@@ -57,10 +57,10 @@ var config = {
     desc: {
         turn_on: "BEGIN",
         play: "MUSIC",
-        bannar_coming: "COLOR",
-        balloons_flying: "SOMETHING MISSED?",
-        cake_fadein: "CAKE?",
-        light_candle: "CANDLE?",
+        bannar_coming: "BANNAR",
+        balloons_flying: "BALLOON",
+        cake_fadein: "CAKE",
+        light_candle: "CANDLE",
         wish_message: "HAPPY BIRTHDAY",
         story: "A MESSAGE FOR YOU",
     }

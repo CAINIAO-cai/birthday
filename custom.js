@@ -14,6 +14,7 @@ $(function () {
     $("#texts-container").append(dom.innerHTML);
 });
 
+
 $(function () {
     for (let k in config.desc) {
         let dom = $("#" + k);
